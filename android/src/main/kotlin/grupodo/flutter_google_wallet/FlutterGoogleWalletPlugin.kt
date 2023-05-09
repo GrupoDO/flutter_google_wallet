@@ -1,4 +1,4 @@
-package sncf.connect.tech.flutter_google_wallet
+package grupodo.flutter_google_wallet
 
 import android.app.Activity
 import android.content.Context
